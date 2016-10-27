@@ -1,0 +1,5 @@
+sqs-ec2-nodejs.pem
+.idea
+creds.json
+default
+node_modules
